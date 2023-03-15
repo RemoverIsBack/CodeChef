@@ -12,7 +12,7 @@ Chef wants this sequence to satisfy the following condition: for each 1≤i≤�
 Sum of N over all test caes does not exceed 2⋅105.
 Subtasks
 Subtask #1 (100 points): Original constraints
-
+//adding this line as desire
 Sample Input 1 
 3
 3
